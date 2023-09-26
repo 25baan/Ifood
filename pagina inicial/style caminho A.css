@@ -60,7 +60,7 @@ html::-webkit-scrollbar-thumb {
 html::-webkit-scrollbar-thumb:active {
     background: #999999;
 }
-.botao-voltar-link {
+.botao-voltar {
     background-color: transparent;
     color: yellow;
     padding: 10px 20px;
