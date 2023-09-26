@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 imagem1.classList.add('imagem-canto-esquerdo'); // Adicione uma classe
 
                 const linkParaSite1 = document.createElement('a');
-                linkParaSite1.href = 'index caminho AA.html';
+                linkParaSite1.href = 'index_caminho_AA.html';
                 linkParaSite1.appendChild(imagem1);
                 mensagem.appendChild(linkParaSite1);
 
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 imagem2.classList.add('imagem-canto-direito'); // Adicione uma classe
 
                 const linkParaSite2 = document.createElement('a');
-                linkParaSite2.href = 'index caminho AB.html';
+                linkParaSite2.href = 'index_caminho_AB.html';
                 linkParaSite2.appendChild(imagem2);
                 mensagem.appendChild(linkParaSite2);
             }
