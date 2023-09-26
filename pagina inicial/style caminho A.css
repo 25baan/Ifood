@@ -69,6 +69,7 @@ html::-webkit-scrollbar-thumb:active {
     font-weight: bold;
     cursor: pointer;
     font-size: 30px;
+    text-decoration: none;
 }
 .botao-iniciar-mensagem {
     background-color: transparent;
